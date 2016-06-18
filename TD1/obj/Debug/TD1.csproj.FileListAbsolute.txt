@@ -1,0 +1,224 @@
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe.config
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.pdb
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\AddView.g.cs
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.g.cs
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\App.g.cs
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.cache
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.lref
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\AddView.baml
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.baml
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.g.resources
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.Properties.Resources.resources
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.exe
+U:\c#\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.pdb
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe.config
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.exe
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.pdb
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.pdb
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\AddView.g.cs
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.g.cs
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\App.g.cs
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.cache
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.lref
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\AddView.baml
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.baml
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.g.resources
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Travail\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Travail\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe.config
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1.exe
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1.pdb
+C:\Travail\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe
+C:\Travail\CoursTD_IHM-master\TD1\bin\Debug\TD1.pdb
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\AddView.g.cs
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.g.cs
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\App.g.cs
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.cache
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.lref
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\AddView.baml
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.baml
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1.g.resources
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Travail\CoursTD_IHM-master\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Travail\CoursTD_IHM-master\TD1\bin\Debug\Library.dll
+C:\Travail\CoursTD_IHM-master\TD1\bin\Debug\Library.pdb
+U:\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe.config
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1.exe
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1.pdb
+U:\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe
+U:\CoursTD_IHM-master\TD1\bin\Debug\TD1.pdb
+U:\CoursTD_IHM-master\TD1\bin\Debug\Library.dll
+U:\CoursTD_IHM-master\TD1\bin\Debug\Library.pdb
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+U:\CoursTD_IHM-master\TD1\obj\Debug\AddView.baml
+U:\CoursTD_IHM-master\TD1\obj\Debug\AddView.g.cs
+U:\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.g.cs
+U:\CoursTD_IHM-master\TD1\obj\Debug\App.g.cs
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.cache
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.lref
+U:\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.baml
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1.g.resources
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1.Properties.Resources.resources
+U:\CoursTD_IHM-master\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\travail\CoursTD_IHM-master\TD1\obj\Debug\test.baml
+C:\travail\CoursTD_IHM-master\TD1\obj\Debug\test.g.cs
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe.config
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.exe
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.pdb
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.exe
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\TD1.pdb
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\Library.dll
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\bin\Debug\Library.pdb
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\AddView.baml
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\test.baml
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\AddView.g.cs
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.g.cs
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\test.g.cs
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\App.g.cs
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.cache
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1_MarkupCompile.lref
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\MainWindow.baml
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.g.resources
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Users\Adrien\Downloads\CoursTD_IHM-master\CoursTD_IHM-master\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\bin\Debug\TD1.exe.config
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1.exe
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1.pdb
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\AddView.baml
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\test.baml
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\AddView.g.cs
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\test.g.cs
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\App.g.cs
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.cache
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.lref
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\bin\Debug\TD1.exe
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\bin\Debug\TD1.pdb
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\bin\Debug\Library.dll
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\bin\Debug\Library.pdb
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\EditView.g.cs
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\MainWindow.baml
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\EditView.baml
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1.g.resources
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\ViewModel\DeleteView.g.cs
+C:\Users\Thomas Klein\Desktop\MasterDetails\TD1\obj\Debug\ViewModel\DeleteView.baml
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe.config
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.exe
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.pdb
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.baml
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\test.baml
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.g.cs
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.g.cs
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.g.cs
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\test.g.cs
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\App.g.cs
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.cache
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.lref
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.pdb
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\bin\Debug\Library.dll
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\bin\Debug\Library.pdb
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.baml
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.baml
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.g.resources
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Users\Adrien\Downloads\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe.config
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.exe
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.pdb
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.pdb
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\Library.dll
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\Library.pdb
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.baml
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\test.baml
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.g.cs
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.g.cs
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\test.g.cs
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\App.g.cs
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.cache
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.lref
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.baml
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.baml
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.g.resources
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Users\Thomas Klein\Desktop\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+E:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe.config
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.exe
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.pdb
+E:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe
+E:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.pdb
+E:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\Library.dll
+E:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\Library.pdb
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.baml
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.g.cs
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.g.cs
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.g.cs
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\App.g.cs
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.cache
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.lref
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.baml
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.baml
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.g.resources
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.Properties.Resources.resources
+E:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+F:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe.config
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.exe
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.pdb
+F:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.exe
+F:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\TD1.pdb
+F:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\Library.dll
+F:\ihm\MasterDetails\MasterDetails\TD1\bin\Debug\Library.pdb
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.baml
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\AddView.g.cs
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.g.cs
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.g.cs
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\App.g.cs
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.cache
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.lref
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\EditView.baml
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\MainWindow.baml
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.g.resources
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.Properties.Resources.resources
+F:\ihm\MasterDetails\MasterDetails\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\bin\Debug\TD1.exe.config
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1.exe
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1.pdb
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\bin\Debug\TD1.exe
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\bin\Debug\TD1.pdb
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\bin\Debug\Library.dll
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\bin\Debug\Library.pdb
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1.csprojResolveAssemblyReference.cache
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\AddView.baml
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\AddView.g.cs
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\EditView.g.cs
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\Identification.g.cs
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\MainWindow.g.cs
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\App.g.cs
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.cache
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1_MarkupCompile.lref
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\EditView.baml
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\Identification.baml
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\MainWindow.baml
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1.g.resources
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1.Properties.Resources.resources
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\TD1.csproj.GenerateResource.Cache
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\Inscription.g.cs
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\Inscription.baml
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\ReserveView.g.cs
+C:\Users\Adrien\Downloads\Projet\MasterDetails\TD1\obj\Debug\ReserveView.baml
